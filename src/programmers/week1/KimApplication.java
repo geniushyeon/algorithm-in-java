@@ -1,4 +1,4 @@
-package programmers;
+package programmers.week1;
 
 public class KimApplication {
     public String solution(String[] seoul) {

@@ -1,4 +1,4 @@
-package programmers;
+package programmers.week1;
 
 public class PyApplication {
     static boolean solution(String s) {
