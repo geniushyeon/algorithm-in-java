@@ -13,7 +13,7 @@ public class GetMiddleApplication {
         return answer;
     }
 
-    public String answer(String s) {
+    public String fixSolution(String s) {
         String answer = "";
 
         answer = s.substring((s.length()-1) / 2, s.length()/2 + 1);
