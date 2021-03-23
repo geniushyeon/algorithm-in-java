@@ -23,6 +23,19 @@ public class AddIntegersApplication {
         }
 
         return answer;
+    }
 
+    public int fixedSolution(int a, int b) {
+        int answer = 0;
+
+        if (a != b) {
+            for (int i = Math.min(a, b); i <= Math.max(a, b); i++) {
+                answer += i;
+            }
+        } else {
+            answer = a;
+        }
+
+        return answer;
     }
 }

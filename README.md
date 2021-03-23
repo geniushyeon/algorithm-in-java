@@ -1,5 +1,13 @@
 # algorithm
 알고리즘 공부를 해보자
+# 목차
+  - [1. Programmers](#1-programmers)
+    - [1.1. Level 1](#11-level-1)
+  - [2. Baekjoon](#2-baekjoon)
+    - [2.1. 입출력과 사칙연산](#21-입출력과-사칙연산)
+    - [2.2. if문](#22-if문)
+  - [3. Do it! 자료구조와 함께 배우는 알고리즘 입문 자바 편](#3-do-it-자료구조와-함께-배우는-알고리즘-입문-자바-편)
+    - [3.1. Chapter 1. 기본 알고리즘](#31-chapter-1-기본-알고리즘)
 ## 1. Programmers
 ### 1.1. Level 1
 - [두 수 사이의 합](src/programmers/week1/AddIntegersApplication.java)
@@ -42,3 +50,7 @@
 - [윤년](src/baekjoon/week1/LeapYear.java)
 - [사분면 고르기](src/baekjoon/week1/Quadrant.java)
 - [알람 시계](src/baekjoon/week1/Alarm.java)
+
+## 3. Do it! 자료구조와 함께 배우는 알고리즘 입문 자바 편
+### 3.1. Chapter 1. 기본 알고리즘
+- [알고리즘이란?](src/doit/chap01/basic/BasicAlgorithm.java)
