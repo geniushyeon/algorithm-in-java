@@ -13,14 +13,12 @@ public class CaesarCipher {
                     if (ch + n > 90) {
                         ch -= 26;
                     }
-                    ch += n;
                 } else if (ch >= 97 && ch <= 122) { // 소문자
                     if (ch + n > 122) {
                         ch -= 26;
                     }
-                    ch += n;
                 }
-
+                ch += n;
             } else {
                 ch = ' ';
             }
