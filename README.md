@@ -38,11 +38,17 @@
 - [정수 제곱근 판별](src/programmers/week3/SquareRoot.java)
 - [자릿수 더하기](src/programmers/week3/SumOfDigit.java)
 - [정수 내림차순으로 배치하기](src/programmers/week3/IntegerDesc.java)
+- [자연수 뒤집어 배열로 만들기](src/programmers/week3/ReverseIntegers.java)
+- [문자열 내림차순으로 배치하기](src/programmers/week3/StringDesc.java)
+- [행렬의 덧셈](src/programmers/week3/SumMatrix.java)
+
 
 ## 2. Baekjoon
 ### 2.1. 입출력과 사칙연산
 - [A+B](src/baekjoon/week1/SumOfIntegers.java)
 - [구구단](src/baekjoon/week1/Gugudan.java)
+- [나머지](src/baekjoon/week1/Remainder.java)
+- [곱셈(빈 칸에 들어갈 수는?)](src/baekjoon/week1/Multiplication.java)
 
 ### 2.2. if문
 - [두 수 비교하기](src/baekjoon/week1/CompareAB.java)
