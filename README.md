@@ -6,8 +6,7 @@
   - [2. Baekjoon](#2-baekjoon)
     - [2.1. 입출력과 사칙연산](#21-입출력과-사칙연산)
     - [2.2. if문](#22-if문)
-  - [3. Do it! 자료구조와 함께 배우는 알고리즘 입문 자바 편](#3-do-it-자료구조와-함께-배우는-알고리즘-입문-자바-편)
-    - [3.1. Chapter 1. 기본 알고리즘](#31-chapter-1-기본-알고리즘)
+    - [2.3. for문](#23-for문)
 ## 1. Programmers
 ### 1.1. Level 1
 - [두 수 사이의 합](src/programmers/week1/AddIntegersApplication.java)
@@ -41,7 +40,8 @@
 - [자연수 뒤집어 배열로 만들기](src/programmers/week3/ReverseIntegers.java)
 - [문자열 내림차순으로 배치하기](src/programmers/week3/StringDesc.java)
 - [행렬의 덧셈](src/programmers/week3/SumMatrix.java)
-
+- [2016년](src/programmers/week3/Year2016.java)
+- [문자열 내 마음대로 정렬하기(미완성)](src/week3/../programmers/week3/SortStrings.java)
 
 ## 2. Baekjoon
 ### 2.1. 입출력과 사칙연산
@@ -57,6 +57,11 @@
 - [사분면 고르기](src/baekjoon/week1/Quadrant.java)
 - [알람 시계](src/baekjoon/week1/Alarm.java)
 
-## 3. Do it! 자료구조와 함께 배우는 알고리즘 입문 자바 편
-### 3.1. Chapter 1. 기본 알고리즘
-- [알고리즘이란?](src/doit/chap01/basic/BasicAlgorithm.java)
+### 2.3. for문
+- [삼각형 모양으로 별 찍기](src/baekjoon/week1/RightTriangleStars.java)
+- [빠른 A+B(시간 초과)](src/baekjoon/week1/SumByBuffered.java)
+- [A+B(10950, 11021)](src/baekjoon/week1/SumOfABDuringT.java)
+- [A+B(11022)](src/baekjoon/week1/AplusB8.java)
+- [X보다 작은 수](src/baekjoon/week1/NumLessThanX.java)
+- [1부터 n까지의 합](src/baekjoon/week1/SumOf1toNum.java)
+- [N 찍기/기찍 N](src/baekjoon/week1/PrintNum.java)
