@@ -9,6 +9,7 @@
     - [2.3. for문](#23-for문)
 ## 1. Programmers
 ### 1.1. Level 1
+#### 연습문제
 - [두 수 사이의 합](src/programmers/week1/AddIntegersApplication.java)
   - Math.max()와 Math.min() 메소드로 훨씬 간결하게 풀 수 있다는 것을 배움
 - [가운데 글자 가져오기](src/programmers/week1/GetMiddleApplication.java)
@@ -42,7 +43,12 @@
 - [행렬의 덧셈](src/programmers/week3/SumMatrix.java)
 - [2016년](src/programmers/week3/Year2016.java)
 - [문자열 내 마음대로 정렬하기(미완성)](src/week3/../programmers/week3/SortStrings.java)
-
+#### 기타
+- [완주하지 못한 선수](src/programmers/week3/HashBasic.java)
+- [K번째수](src/programmers/week3/NumberAtK.java)
+  - Arrays.copyOfRange() 메소드 활용 가능
+- [두 개 뽑아서 더하기](src/programmers/week3/SumOfTwoInt.java)
+  - 처음으로 HashSet을 활용해보았다! 뿌듯
 ## 2. Baekjoon
 ### 2.1. 입출력과 사칙연산
 - [A+B](src/baekjoon/week1/SumOfIntegers.java)
