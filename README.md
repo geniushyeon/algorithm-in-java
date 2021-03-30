@@ -3,10 +3,13 @@
 # 목차
   - [1. Programmers](#1-programmers)
     - [1.1. Level 1](#11-level-1)
+      - [연습문제](#연습문제)
+      - [기타](#기타)
   - [2. Baekjoon](#2-baekjoon)
     - [2.1. 입출력과 사칙연산](#21-입출력과-사칙연산)
     - [2.2. if문](#22-if문)
     - [2.3. for문](#23-for문)
+    - [2.4. while문](#24-while문)
 ## 1. Programmers
 ### 1.1. Level 1
 #### 연습문제
@@ -71,3 +74,8 @@
 - [X보다 작은 수](src/baekjoon/week1/NumLessThanX.java)
 - [1부터 n까지의 합](src/baekjoon/week1/SumOf1toNum.java)
 - [N 찍기/기찍 N](src/baekjoon/week1/PrintNum.java)
+
+### 2.4. while문
+- [10951: A+B](src/baekjoon/week2/EOFApplication.java)
+- [10952: A+B](src/baekjoon/week2/SumOfABbyWhile.java)
+- [1110: 더하기 사이클](src/baekjoon/week2/PlusCycle.java)
