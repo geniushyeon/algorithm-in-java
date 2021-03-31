@@ -79,3 +79,8 @@
 - [10951: A+B](src/baekjoon/week2/EOFApplication.java)
 - [10952: A+B](src/baekjoon/week2/SumOfABbyWhile.java)
 - [1110: 더하기 사이클](src/baekjoon/week2/PlusCycle.java)
+
+### 2.5. 1차원 배열
+- [10818: 최소, 최대](src/baekjoon/week2/MinAndMax.java)
+- [2562: 최대값](src/baekjoon/week2/IndexOfMax.java)
+- [2577: 숫자의 개수](src/baekjoon/week2/CountOfInteger.java)
