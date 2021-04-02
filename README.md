@@ -10,6 +10,7 @@
     - [2.2. if문](#22-if문)
     - [2.3. for문](#23-for문)
     - [2.4. while문](#24-while문)
+    - [2.5. 1차원 배열](#25-1차원-배열)
 ## 1. Programmers
 ### 1.1. Level 1
 #### 연습문제
@@ -84,3 +85,7 @@
 - [10818: 최소, 최대](src/baekjoon/week2/MinAndMax.java)
 - [2562: 최대값](src/baekjoon/week2/IndexOfMax.java)
 - [2577: 숫자의 개수](src/baekjoon/week2/CountOfInteger.java)
+- [3052: 나머지](src/baekjoon/week2/ReminderArray.java)
+- [1546: 평균](src/baekjoon/week2/AverageOfScore.java)
+- [8958: OX퀴즈](src/baekjoon/week2/OXQuiz.java)
+- [4344: 평균은 넘겠지](src/baekjoon/week2/OverTheAverage.java)
