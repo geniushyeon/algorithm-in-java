@@ -11,6 +11,8 @@
     - [2.3. for문](#23-for문)
     - [2.4. while문](#24-while문)
     - [2.5. 1차원 배열](#25-1차원-배열)
+    - [2.6. 함수](#26-함수)
+    - [2.7. 문자열](#27-문자열)
 ## 1. Programmers
 ### 1.1. Level 1
 #### 연습문제
@@ -89,3 +91,11 @@
 - [1546: 평균](src/baekjoon/week2/AverageOfScore.java)
 - [8958: OX퀴즈](src/baekjoon/week2/OXQuiz.java)
 - [4344: 평균은 넘겠지](src/baekjoon/week2/OverTheAverage.java)
+
+### 2.6. 함수
+- [15596: 정수 N개의 합](src/baekjoon/week2/SumOfIntegersOfArray.java)
+
+### 2.7. 문자열
+- [11654: 아스키 코드](src/baekjoon/week2/Ascii.java)
+- [11720: 숫자의 합](src/baekjoon/week2/SumOfIntegersByScanner.java)
+- [10809: 알파벳 찾기](src/baekjoon/week2/FindAlphabets.java)
