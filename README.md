@@ -99,3 +99,5 @@
 - [11654: 아스키 코드](src/baekjoon/week2/Ascii.java)
 - [11720: 숫자의 합](src/baekjoon/week2/SumOfIntegersByScanner.java)
 - [10809: 알파벳 찾기](src/baekjoon/week2/FindAlphabets.java)
+- [2675: 문자열 반복](src/baekjoon/week3/RepeatString.java)
+- [2908: 상수](src/baekjoon/week3/Sangsoo.java)
