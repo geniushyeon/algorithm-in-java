@@ -101,3 +101,4 @@
 - [10809: 알파벳 찾기](src/baekjoon/week2/FindAlphabets.java)
 - [2675: 문자열 반복](src/baekjoon/week3/RepeatString.java)
 - [2908: 상수](src/baekjoon/week3/Sangsoo.java)
+- [1157: 단어 공부](src/baekjoon/week4/MostUsedAlphabet.java)
