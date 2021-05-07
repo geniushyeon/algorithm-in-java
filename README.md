@@ -102,3 +102,4 @@
 - [2675: 문자열 반복](src/baekjoon/week3/RepeatString.java)
 - [2908: 상수](src/baekjoon/week3/Sangsoo.java)
 - [1157: 단어 공부](src/baekjoon/week4/MostUsedAlphabet.java)
+- [1152: 단어의 개수](src/baekjoon/week4/WordCount.java)
