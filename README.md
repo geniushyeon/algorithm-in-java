@@ -103,3 +103,6 @@
 - [2908: 상수](src/baekjoon/week3/Sangsoo.java)
 - [1157: 단어 공부](src/baekjoon/week4/MostUsedAlphabet.java)
 - [1152: 단어의 개수](src/baekjoon/week4/WordCount.java)
+
+### 2.8. 기본 수학 1
+- [1712: 손익분기점](src/baekjoon/week5/BreakEvenPoint.java)
