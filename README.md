@@ -13,6 +13,9 @@
     - [2.5. 1차원 배열](#25-1차원-배열)
     - [2.6. 함수](#26-함수)
     - [2.7. 문자열](#27-문자열)
+  - [3. leetcode](#3-leetcode)
+    - [3.1. easy](#31-easy)
+
 ## 1. Programmers
 ### 1.1. Level 1
 #### 연습문제
@@ -106,3 +109,10 @@
 
 ### 2.8. 기본 수학 1
 - [1712: 손익분기점](src/baekjoon/week5/BreakEvenPoint.java)
+
+## 3. leetcode
+### 3.1. easy
+- [정수 뒤집기](src/leetcode/easy/ReverseInteger.java)
+- [팰린드롬 숫자](src/leetcode/easy/PalindromeNumber.java)
+- [로마 숫자를 정수로 바꾸기](src/leetcode/easy/RomanToInteger.java)
+- [가장 많이 나오는 접두사](src/leetcode/easy/LongestCommonPrefix.java)
