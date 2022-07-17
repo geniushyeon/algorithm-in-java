@@ -1,4 +1,4 @@
-package codewars.kyu7;
+package codewars.kyu7.week02;
 
 public class ExesAndOhs {
 

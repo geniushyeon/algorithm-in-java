@@ -1,4 +1,4 @@
-package codewars.kyu7;
+package codewars.kyu7.week03;
 
 import java.util.ArrayList;
 import java.util.List;

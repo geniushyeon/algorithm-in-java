@@ -1,4 +1,4 @@
-package codewars.kyu7;
+package codewars.kyu7.week01;
 
 public class VowelCount {
 

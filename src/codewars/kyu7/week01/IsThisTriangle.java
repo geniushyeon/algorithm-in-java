@@ -1,4 +1,4 @@
-package codewars.kyu7;
+package codewars.kyu7.week01;
 
 public class IsThisTriangle {
 	public static boolean isTriangle(int a, int b, int c){
