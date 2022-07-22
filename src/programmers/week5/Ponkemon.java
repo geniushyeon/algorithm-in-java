@@ -1,4 +1,4 @@
-package programmers;
+package programmers.week5;
 
 import java.util.Arrays;
 import java.util.HashSet;
