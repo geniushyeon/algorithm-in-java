@@ -5,6 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class MockExam {
+
 	public int[] solution(int[] answers) {
 
 		int[] person1 = {1, 2, 3, 4, 5};
@@ -21,12 +22,10 @@ public class MockExam {
 
 			if (answers[i] == person2[i % person2.length]) {
 				scores[1]++;
-
 			}
 
 			if (answers[i] == person3[i % person3.length]) {
 				scores[2]++;
-
 			}
 		}
 
