@@ -27,13 +27,13 @@ public class NearestCharacter {
 
     private int getIndex(String s, int lastIndex) {
         int index = lastIndex - 1;
-        int loop = 1;
+        int distance = 1;
 
         while (index >= 0) {
             if (s.charAt(lastIndex) == s.charAt(index)) {
-                return loop;
+                return distance;
             }
-            loop++;
+            distance++;
             index--;
         }
         return -1;
