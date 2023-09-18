@@ -1,4 +1,4 @@
-package programmers.week12;
+package programmers.week11;
 
 public class SplitArray {
 
